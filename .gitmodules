@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "psr"]
+	path = psr
+	url = https://github.com/tommy-mcginn/psr
+	shallow = true
+	registered = true
